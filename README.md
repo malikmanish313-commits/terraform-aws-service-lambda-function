@@ -1,11 +1,4 @@
-# Terraform Modules Registry
 
-## Modules
-
-| Module Name              | Latest Version | Provider | Downloads | Registry |
-|-------------------------|---------------|----------|-----------|----------|
-| service-s3-bucket       | v2.0.0        | aws      | -         | [View](https://github.com/Lakshika1210/terraform-aws-service-s3-bucket.git) |
-| service-lambda-function | v1.0.0        | aws      | -         | [View](https://github.com/Lakshika1210/terraform-aws-service-lambda-function.git) |
 
 ---
 
